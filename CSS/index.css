@@ -6,4 +6,14 @@ body {
     margin: 40px;
     padding: auto;
     color: black;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+.submit{
+    
+    color:green;
+    height:50px;
+    width:100px;
+    font:bold15px arial,sans-serif;
+    text-shadow:none;
 }
