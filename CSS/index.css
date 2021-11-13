@@ -1,6 +1,9 @@
 body {
-    background-color: aqua;
+    background-color:aqua;
 }
 .top{
     text-align: center;
+    margin: 40px;
+    padding: auto;
+    color: black;
 }
