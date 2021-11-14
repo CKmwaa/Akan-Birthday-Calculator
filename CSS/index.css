@@ -1,5 +1,6 @@
 body {
     background-color:aqua;
+    background-image: url(web.jpeg);
 }
 .top{
     text-align: center;
@@ -33,4 +34,8 @@ body {
       margin-top: 3%;
       font-family: 'Times New Roman', Times, serif;
       font-weight: 800;
+   }
+   .tb{
+       text-align: center;
+       padding-left:350px;
    }
