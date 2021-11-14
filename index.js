@@ -6,7 +6,10 @@ function myname(){
     if (mydate.value<=0 || mydate.value>31){
         alert ("wrong date")
     }
-   
+    let mymonth= document.getElementById("month")
+    if (mymonth.value<=0 || mymonth.value>12){
+        alert ("wrong month")
+    }
 
     let myyear= document.getElementById("year")
     let mymale= document.getElementById("male")
