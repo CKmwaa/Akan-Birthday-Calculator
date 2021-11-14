@@ -19,5 +19,9 @@ body {
 }
 .first{
     text-align: center;
-   
+   }
+
+   button{
+       background-color: green;
+       color: honeydew;
    }
