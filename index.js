@@ -3,7 +3,10 @@ function myname(){
     let femalenames = ["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"]
     let days = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
     let mydate= document.getElementById("date")
-  
+    if (mydate.value<=0 || mydate.value>31){
+        alert ("wrong date")
+    }
+   
 
     let myyear= document.getElementById("year")
     let mymale= document.getElementById("male")
