@@ -21,10 +21,16 @@ body {
     text-align: center;
     width: 1000px;
     margin: 5%;
+    padding-left: 10%;
+    font-style: italic;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: 800;
    }
 
    button{
        background-color: green;
        color: honeydew;
-      
+      margin-top: 3%;
+      font-family: 'Times New Roman', Times, serif;
+      font-weight: 800;
    }
