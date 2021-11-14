@@ -13,7 +13,7 @@ This application takes a user's birthday and calculates the day of the week they
 * Go to live server
 
 ## Live link
-
+https://ckmwaa.github.io/Akan-Birthday-Calculator/
 
 ## Requirements
 ​Either a computer,phone,tablet or an Ipad​
