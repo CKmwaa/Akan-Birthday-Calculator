@@ -10,4 +10,6 @@ function myname(){
     let MM = parseInt(mymonth.value)
     let DD = parseInt(mydate.value)
     let malenames = ["Kwasi","Kwadwo","Kwabena","Kwaku","Yaw","Kofi","Kwame"]
+    let femalenames = ["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"]
+   
 }
