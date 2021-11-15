@@ -1,6 +1,6 @@
 body {
     background-color:aqua;
-    background-image: url(web.jpeg);
+  
 }
 .top{
     text-align: center;
@@ -38,4 +38,9 @@ body {
    .tb{
        text-align: center;
        padding-left:350px;
+   }
+   footer{
+    margin-bottom: 0px;
+    padding-left: 600px;
+    margin-top: 100px
    }
